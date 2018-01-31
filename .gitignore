@@ -1,0 +1,12 @@
+
+.metadata/*
+.recommenders/*
+ptsolution/.settings/*
+ptsolution/app-core/.classpath
+ptsolution/app-core/.project
+ptsolution/app-core/.settings/*
+ptsolution/.project
+ptsolution/app-web/.classpath
+ptsolution/app-web/.project
+ptsolution/app-web/.settings/*
+Servers/*
